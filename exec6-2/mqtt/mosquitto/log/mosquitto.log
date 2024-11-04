@@ -1,0 +1,864 @@
+1730715158: mosquitto version 2.0.20 starting
+1730715158: Config loaded from /mosquitto/config/mosquitto.conf.
+1730715158: Opening ipv4 listen socket on port 1883.
+1730715158: Opening ipv6 listen socket on port 1883.
+1730715158: mosquitto version 2.0.20 running
+1730715158: New connection from 172.20.0.2:60870 on port 1883.
+1730715158: New client connected from 172.20.0.2:60870 as mqttjs_4ac732f6 (p2, c1, k60).
+1730715158: New connection from 192.168.65.1:32715 on port 1883.
+1730715158: New client connected from 192.168.65.1:32715 as mqttjs01 (p2, c1, k60).
+1730715169: New connection from 192.168.65.1:59985 on port 1883.
+1730715169: Client mqttjs01 already connected, closing old connection.
+1730715169: New client connected from 192.168.65.1:59985 as mqttjs01 (p2, c1, k60).
+1730715170: New connection from 192.168.65.1:63206 on port 1883.
+1730715170: Client mqttjs01 already connected, closing old connection.
+1730715170: New client connected from 192.168.65.1:63206 as mqttjs01 (p2, c1, k60).
+1730715171: New connection from 192.168.65.1:32019 on port 1883.
+1730715171: Client mqttjs01 already connected, closing old connection.
+1730715171: New client connected from 192.168.65.1:32019 as mqttjs01 (p2, c1, k60).
+1730715172: New connection from 192.168.65.1:30037 on port 1883.
+1730715172: Client mqttjs01 already connected, closing old connection.
+1730715172: New client connected from 192.168.65.1:30037 as mqttjs01 (p2, c1, k60).
+1730715173: New connection from 192.168.65.1:52785 on port 1883.
+1730715173: Client mqttjs01 already connected, closing old connection.
+1730715173: New client connected from 192.168.65.1:52785 as mqttjs01 (p2, c1, k60).
+1730715174: New connection from 192.168.65.1:46777 on port 1883.
+1730715174: Client mqttjs01 already connected, closing old connection.
+1730715174: New client connected from 192.168.65.1:46777 as mqttjs01 (p2, c1, k60).
+1730715175: New connection from 192.168.65.1:23870 on port 1883.
+1730715175: Client mqttjs01 already connected, closing old connection.
+1730715175: New client connected from 192.168.65.1:23870 as mqttjs01 (p2, c1, k60).
+1730715176: New connection from 192.168.65.1:39322 on port 1883.
+1730715176: Client mqttjs01 already connected, closing old connection.
+1730715176: New client connected from 192.168.65.1:39322 as mqttjs01 (p2, c1, k60).
+1730715177: New connection from 192.168.65.1:35420 on port 1883.
+1730715177: Client mqttjs01 already connected, closing old connection.
+1730715177: New client connected from 192.168.65.1:35420 as mqttjs01 (p2, c1, k60).
+1730715178: New connection from 192.168.65.1:20819 on port 1883.
+1730715178: Client mqttjs01 already connected, closing old connection.
+1730715178: New client connected from 192.168.65.1:20819 as mqttjs01 (p2, c1, k60).
+1730715179: New connection from 192.168.65.1:22803 on port 1883.
+1730715179: Client mqttjs01 already connected, closing old connection.
+1730715179: New client connected from 192.168.65.1:22803 as mqttjs01 (p2, c1, k60).
+1730715180: New connection from 192.168.65.1:37461 on port 1883.
+1730715180: Client mqttjs01 already connected, closing old connection.
+1730715180: New client connected from 192.168.65.1:37461 as mqttjs01 (p2, c1, k60).
+1730715181: New connection from 192.168.65.1:64125 on port 1883.
+1730715181: Client mqttjs01 already connected, closing old connection.
+1730715181: New client connected from 192.168.65.1:64125 as mqttjs01 (p2, c1, k60).
+1730715182: New connection from 192.168.65.1:27148 on port 1883.
+1730715182: Client mqttjs01 already connected, closing old connection.
+1730715182: New client connected from 192.168.65.1:27148 as mqttjs01 (p2, c1, k60).
+1730715183: New connection from 192.168.65.1:27339 on port 1883.
+1730715183: Client mqttjs01 already connected, closing old connection.
+1730715183: New client connected from 192.168.65.1:27339 as mqttjs01 (p2, c1, k60).
+1730715184: New connection from 192.168.65.1:29257 on port 1883.
+1730715184: Client mqttjs01 already connected, closing old connection.
+1730715184: New client connected from 192.168.65.1:29257 as mqttjs01 (p2, c1, k60).
+1730715185: New connection from 192.168.65.1:27494 on port 1883.
+1730715185: Client mqttjs01 already connected, closing old connection.
+1730715185: New client connected from 192.168.65.1:27494 as mqttjs01 (p2, c1, k60).
+1730715186: New connection from 192.168.65.1:63995 on port 1883.
+1730715186: Client mqttjs01 already connected, closing old connection.
+1730715186: New client connected from 192.168.65.1:63995 as mqttjs01 (p2, c1, k60).
+1730715187: New connection from 192.168.65.1:57934 on port 1883.
+1730715187: Client mqttjs01 already connected, closing old connection.
+1730715187: New client connected from 192.168.65.1:57934 as mqttjs01 (p2, c1, k60).
+1730715188: New connection from 192.168.65.1:51418 on port 1883.
+1730715188: Client mqttjs01 already connected, closing old connection.
+1730715188: New client connected from 192.168.65.1:51418 as mqttjs01 (p2, c1, k60).
+1730715189: New connection from 192.168.65.1:25423 on port 1883.
+1730715189: Client mqttjs01 already connected, closing old connection.
+1730715189: New client connected from 192.168.65.1:25423 as mqttjs01 (p2, c1, k60).
+1730715190: New connection from 192.168.65.1:42093 on port 1883.
+1730715190: Client mqttjs01 already connected, closing old connection.
+1730715190: New client connected from 192.168.65.1:42093 as mqttjs01 (p2, c1, k60).
+1730715191: New connection from 192.168.65.1:52765 on port 1883.
+1730715191: Client mqttjs01 already connected, closing old connection.
+1730715191: New client connected from 192.168.65.1:52765 as mqttjs01 (p2, c1, k60).
+1730715192: New connection from 192.168.65.1:18950 on port 1883.
+1730715192: Client mqttjs01 already connected, closing old connection.
+1730715192: New client connected from 192.168.65.1:18950 as mqttjs01 (p2, c1, k60).
+1730715193: New connection from 192.168.65.1:38361 on port 1883.
+1730715193: Client mqttjs01 already connected, closing old connection.
+1730715193: New client connected from 192.168.65.1:38361 as mqttjs01 (p2, c1, k60).
+1730715194: New connection from 192.168.65.1:21127 on port 1883.
+1730715194: Client mqttjs01 already connected, closing old connection.
+1730715194: New client connected from 192.168.65.1:21127 as mqttjs01 (p2, c1, k60).
+1730715195: New connection from 192.168.65.1:57912 on port 1883.
+1730715195: Client mqttjs01 already connected, closing old connection.
+1730715195: New client connected from 192.168.65.1:57912 as mqttjs01 (p2, c1, k60).
+1730715196: New connection from 192.168.65.1:52148 on port 1883.
+1730715196: Client mqttjs01 already connected, closing old connection.
+1730715196: New client connected from 192.168.65.1:52148 as mqttjs01 (p2, c1, k60).
+1730715197: New connection from 192.168.65.1:28369 on port 1883.
+1730715197: Client mqttjs01 already connected, closing old connection.
+1730715197: New client connected from 192.168.65.1:28369 as mqttjs01 (p2, c1, k60).
+1730715198: New connection from 192.168.65.1:17164 on port 1883.
+1730715198: Client mqttjs01 already connected, closing old connection.
+1730715198: New client connected from 192.168.65.1:17164 as mqttjs01 (p2, c1, k60).
+1730715199: New connection from 192.168.65.1:61362 on port 1883.
+1730715199: Client mqttjs01 already connected, closing old connection.
+1730715199: New client connected from 192.168.65.1:61362 as mqttjs01 (p2, c1, k60).
+1730715200: New connection from 192.168.65.1:20224 on port 1883.
+1730715200: Client mqttjs01 already connected, closing old connection.
+1730715200: New client connected from 192.168.65.1:20224 as mqttjs01 (p2, c1, k60).
+1730715201: New connection from 192.168.65.1:35996 on port 1883.
+1730715201: Client mqttjs01 already connected, closing old connection.
+1730715201: New client connected from 192.168.65.1:35996 as mqttjs01 (p2, c1, k60).
+1730715202: New connection from 192.168.65.1:16272 on port 1883.
+1730715202: Client mqttjs01 already connected, closing old connection.
+1730715202: New client connected from 192.168.65.1:16272 as mqttjs01 (p2, c1, k60).
+1730715203: New connection from 192.168.65.1:40077 on port 1883.
+1730715203: Client mqttjs01 already connected, closing old connection.
+1730715203: New client connected from 192.168.65.1:40077 as mqttjs01 (p2, c1, k60).
+1730715204: New connection from 192.168.65.1:19248 on port 1883.
+1730715204: Client mqttjs01 already connected, closing old connection.
+1730715204: New client connected from 192.168.65.1:19248 as mqttjs01 (p2, c1, k60).
+1730715205: New connection from 192.168.65.1:29212 on port 1883.
+1730715205: Client mqttjs01 already connected, closing old connection.
+1730715205: New client connected from 192.168.65.1:29212 as mqttjs01 (p2, c1, k60).
+1730715206: New connection from 192.168.65.1:17169 on port 1883.
+1730715206: Client mqttjs01 already connected, closing old connection.
+1730715206: New client connected from 192.168.65.1:17169 as mqttjs01 (p2, c1, k60).
+1730715207: New connection from 192.168.65.1:52692 on port 1883.
+1730715207: Client mqttjs01 already connected, closing old connection.
+1730715207: New client connected from 192.168.65.1:52692 as mqttjs01 (p2, c1, k60).
+1730715208: New connection from 192.168.65.1:29523 on port 1883.
+1730715208: Client mqttjs01 already connected, closing old connection.
+1730715208: New client connected from 192.168.65.1:29523 as mqttjs01 (p2, c1, k60).
+1730715209: New connection from 192.168.65.1:65254 on port 1883.
+1730715209: Client mqttjs01 already connected, closing old connection.
+1730715209: New client connected from 192.168.65.1:65254 as mqttjs01 (p2, c1, k60).
+1730715210: New connection from 192.168.65.1:17997 on port 1883.
+1730715210: Client mqttjs01 already connected, closing old connection.
+1730715210: New client connected from 192.168.65.1:17997 as mqttjs01 (p2, c1, k60).
+1730715211: New connection from 192.168.65.1:29087 on port 1883.
+1730715211: Client mqttjs01 already connected, closing old connection.
+1730715211: New client connected from 192.168.65.1:29087 as mqttjs01 (p2, c1, k60).
+1730715212: New connection from 192.168.65.1:26769 on port 1883.
+1730715212: Client mqttjs01 already connected, closing old connection.
+1730715212: New client connected from 192.168.65.1:26769 as mqttjs01 (p2, c1, k60).
+1730715213: New connection from 192.168.65.1:37560 on port 1883.
+1730715213: Client mqttjs01 already connected, closing old connection.
+1730715213: New client connected from 192.168.65.1:37560 as mqttjs01 (p2, c1, k60).
+1730715214: New connection from 192.168.65.1:45015 on port 1883.
+1730715214: Client mqttjs01 already connected, closing old connection.
+1730715214: New client connected from 192.168.65.1:45015 as mqttjs01 (p2, c1, k60).
+1730715215: New connection from 192.168.65.1:60521 on port 1883.
+1730715215: Client mqttjs01 already connected, closing old connection.
+1730715215: New client connected from 192.168.65.1:60521 as mqttjs01 (p2, c1, k60).
+1730715216: New connection from 192.168.65.1:61336 on port 1883.
+1730715216: Client mqttjs01 already connected, closing old connection.
+1730715216: New client connected from 192.168.65.1:61336 as mqttjs01 (p2, c1, k60).
+1730715217: New connection from 192.168.65.1:34455 on port 1883.
+1730715217: Client mqttjs01 already connected, closing old connection.
+1730715217: New client connected from 192.168.65.1:34455 as mqttjs01 (p2, c1, k60).
+1730715218: New connection from 192.168.65.1:59008 on port 1883.
+1730715218: Client mqttjs01 already connected, closing old connection.
+1730715218: New client connected from 192.168.65.1:59008 as mqttjs01 (p2, c1, k60).
+1730715219: New connection from 192.168.65.1:58910 on port 1883.
+1730715219: Client mqttjs01 already connected, closing old connection.
+1730715219: New client connected from 192.168.65.1:58910 as mqttjs01 (p2, c1, k60).
+1730715220: New connection from 192.168.65.1:40872 on port 1883.
+1730715220: Client mqttjs01 already connected, closing old connection.
+1730715220: New client connected from 192.168.65.1:40872 as mqttjs01 (p2, c1, k60).
+1730715221: New connection from 192.168.65.1:23866 on port 1883.
+1730715221: Client mqttjs01 already connected, closing old connection.
+1730715221: New client connected from 192.168.65.1:23866 as mqttjs01 (p2, c1, k60).
+1730715222: New connection from 192.168.65.1:36489 on port 1883.
+1730715222: Client mqttjs01 already connected, closing old connection.
+1730715222: New client connected from 192.168.65.1:36489 as mqttjs01 (p2, c1, k60).
+1730715223: New connection from 192.168.65.1:60855 on port 1883.
+1730715223: Client mqttjs01 already connected, closing old connection.
+1730715223: New client connected from 192.168.65.1:60855 as mqttjs01 (p2, c1, k60).
+1730715224: New connection from 192.168.65.1:18198 on port 1883.
+1730715224: Client mqttjs01 already connected, closing old connection.
+1730715224: New client connected from 192.168.65.1:18198 as mqttjs01 (p2, c1, k60).
+1730715225: New connection from 192.168.65.1:43484 on port 1883.
+1730715225: Client mqttjs01 already connected, closing old connection.
+1730715225: New client connected from 192.168.65.1:43484 as mqttjs01 (p2, c1, k60).
+1730715226: New connection from 192.168.65.1:31552 on port 1883.
+1730715226: Client mqttjs01 already connected, closing old connection.
+1730715226: New client connected from 192.168.65.1:31552 as mqttjs01 (p2, c1, k60).
+1730715227: New connection from 192.168.65.1:42893 on port 1883.
+1730715227: Client mqttjs01 already connected, closing old connection.
+1730715227: New client connected from 192.168.65.1:42893 as mqttjs01 (p2, c1, k60).
+1730715228: New connection from 192.168.65.1:34137 on port 1883.
+1730715228: Client mqttjs01 already connected, closing old connection.
+1730715228: New client connected from 192.168.65.1:34137 as mqttjs01 (p2, c1, k60).
+1730715229: New connection from 192.168.65.1:42844 on port 1883.
+1730715229: Client mqttjs01 already connected, closing old connection.
+1730715229: New client connected from 192.168.65.1:42844 as mqttjs01 (p2, c1, k60).
+1730715230: New connection from 192.168.65.1:37796 on port 1883.
+1730715230: Client mqttjs01 already connected, closing old connection.
+1730715230: New client connected from 192.168.65.1:37796 as mqttjs01 (p2, c1, k60).
+1730715231: New connection from 192.168.65.1:63232 on port 1883.
+1730715231: Client mqttjs01 already connected, closing old connection.
+1730715231: New client connected from 192.168.65.1:63232 as mqttjs01 (p2, c1, k60).
+1730715232: New connection from 192.168.65.1:43932 on port 1883.
+1730715232: Client mqttjs01 already connected, closing old connection.
+1730715232: New client connected from 192.168.65.1:43932 as mqttjs01 (p2, c1, k60).
+1730715233: New connection from 192.168.65.1:30116 on port 1883.
+1730715233: Client mqttjs01 already connected, closing old connection.
+1730715233: New client connected from 192.168.65.1:30116 as mqttjs01 (p2, c1, k60).
+1730715234: New connection from 192.168.65.1:20520 on port 1883.
+1730715234: Client mqttjs01 already connected, closing old connection.
+1730715234: New client connected from 192.168.65.1:20520 as mqttjs01 (p2, c1, k60).
+1730715235: New connection from 192.168.65.1:61461 on port 1883.
+1730715235: Client mqttjs01 already connected, closing old connection.
+1730715235: New client connected from 192.168.65.1:61461 as mqttjs01 (p2, c1, k60).
+1730715236: New connection from 192.168.65.1:62076 on port 1883.
+1730715236: Client mqttjs01 already connected, closing old connection.
+1730715236: New client connected from 192.168.65.1:62076 as mqttjs01 (p2, c1, k60).
+1730715237: New connection from 192.168.65.1:37265 on port 1883.
+1730715237: Client mqttjs01 already connected, closing old connection.
+1730715237: New client connected from 192.168.65.1:37265 as mqttjs01 (p2, c1, k60).
+1730715238: New connection from 192.168.65.1:50614 on port 1883.
+1730715238: Client mqttjs01 already connected, closing old connection.
+1730715238: New client connected from 192.168.65.1:50614 as mqttjs01 (p2, c1, k60).
+1730715239: New connection from 192.168.65.1:26596 on port 1883.
+1730715239: Client mqttjs01 already connected, closing old connection.
+1730715239: New client connected from 192.168.65.1:26596 as mqttjs01 (p2, c1, k60).
+1730715240: New connection from 192.168.65.1:48768 on port 1883.
+1730715240: Client mqttjs01 already connected, closing old connection.
+1730715240: New client connected from 192.168.65.1:48768 as mqttjs01 (p2, c1, k60).
+1730715241: New connection from 192.168.65.1:27106 on port 1883.
+1730715241: Client mqttjs01 already connected, closing old connection.
+1730715241: New client connected from 192.168.65.1:27106 as mqttjs01 (p2, c1, k60).
+1730715242: New connection from 192.168.65.1:31213 on port 1883.
+1730715242: Client mqttjs01 already connected, closing old connection.
+1730715242: New client connected from 192.168.65.1:31213 as mqttjs01 (p2, c1, k60).
+1730715243: New connection from 192.168.65.1:28121 on port 1883.
+1730715243: Client mqttjs01 already connected, closing old connection.
+1730715243: New client connected from 192.168.65.1:28121 as mqttjs01 (p2, c1, k60).
+1730715244: New connection from 192.168.65.1:41596 on port 1883.
+1730715244: Client mqttjs01 already connected, closing old connection.
+1730715244: New client connected from 192.168.65.1:41596 as mqttjs01 (p2, c1, k60).
+1730715245: New connection from 192.168.65.1:64209 on port 1883.
+1730715245: Client mqttjs01 already connected, closing old connection.
+1730715245: New client connected from 192.168.65.1:64209 as mqttjs01 (p2, c1, k60).
+1730715246: New connection from 192.168.65.1:30679 on port 1883.
+1730715246: Client mqttjs01 already connected, closing old connection.
+1730715246: New client connected from 192.168.65.1:30679 as mqttjs01 (p2, c1, k60).
+1730715247: New connection from 192.168.65.1:54878 on port 1883.
+1730715247: Client mqttjs01 already connected, closing old connection.
+1730715247: New client connected from 192.168.65.1:54878 as mqttjs01 (p2, c1, k60).
+1730715248: New connection from 192.168.65.1:54466 on port 1883.
+1730715248: Client mqttjs01 already connected, closing old connection.
+1730715248: New client connected from 192.168.65.1:54466 as mqttjs01 (p2, c1, k60).
+1730715249: New connection from 192.168.65.1:58435 on port 1883.
+1730715249: Client mqttjs01 already connected, closing old connection.
+1730715249: New client connected from 192.168.65.1:58435 as mqttjs01 (p2, c1, k60).
+1730715250: New connection from 192.168.65.1:60644 on port 1883.
+1730715250: Client mqttjs01 already connected, closing old connection.
+1730715250: New client connected from 192.168.65.1:60644 as mqttjs01 (p2, c1, k60).
+1730715251: New connection from 192.168.65.1:51422 on port 1883.
+1730715251: Client mqttjs01 already connected, closing old connection.
+1730715251: New client connected from 192.168.65.1:51422 as mqttjs01 (p2, c1, k60).
+1730715252: New connection from 192.168.65.1:63477 on port 1883.
+1730715252: Client mqttjs01 already connected, closing old connection.
+1730715252: New client connected from 192.168.65.1:63477 as mqttjs01 (p2, c1, k60).
+1730715253: New connection from 192.168.65.1:32130 on port 1883.
+1730715253: Client mqttjs01 already connected, closing old connection.
+1730715253: New client connected from 192.168.65.1:32130 as mqttjs01 (p2, c1, k60).
+1730715254: New connection from 192.168.65.1:54409 on port 1883.
+1730715254: Client mqttjs01 already connected, closing old connection.
+1730715254: New client connected from 192.168.65.1:54409 as mqttjs01 (p2, c1, k60).
+1730715255: New connection from 192.168.65.1:53046 on port 1883.
+1730715255: Client mqttjs01 already connected, closing old connection.
+1730715255: New client connected from 192.168.65.1:53046 as mqttjs01 (p2, c1, k60).
+1730715256: New connection from 192.168.65.1:60781 on port 1883.
+1730715256: Client mqttjs01 already connected, closing old connection.
+1730715256: New client connected from 192.168.65.1:60781 as mqttjs01 (p2, c1, k60).
+1730715257: New connection from 192.168.65.1:36971 on port 1883.
+1730715257: Client mqttjs01 already connected, closing old connection.
+1730715257: New client connected from 192.168.65.1:36971 as mqttjs01 (p2, c1, k60).
+1730715258: New connection from 192.168.65.1:22063 on port 1883.
+1730715258: Client mqttjs01 already connected, closing old connection.
+1730715258: New client connected from 192.168.65.1:22063 as mqttjs01 (p2, c1, k60).
+1730715259: New connection from 192.168.65.1:31368 on port 1883.
+1730715259: Client mqttjs01 already connected, closing old connection.
+1730715259: New client connected from 192.168.65.1:31368 as mqttjs01 (p2, c1, k60).
+1730715260: New connection from 192.168.65.1:19359 on port 1883.
+1730715260: Client mqttjs01 already connected, closing old connection.
+1730715260: New client connected from 192.168.65.1:19359 as mqttjs01 (p2, c1, k60).
+1730715261: New connection from 192.168.65.1:60908 on port 1883.
+1730715261: Client mqttjs01 already connected, closing old connection.
+1730715261: New client connected from 192.168.65.1:60908 as mqttjs01 (p2, c1, k60).
+1730715262: New connection from 192.168.65.1:62913 on port 1883.
+1730715262: Client mqttjs01 already connected, closing old connection.
+1730715262: New client connected from 192.168.65.1:62913 as mqttjs01 (p2, c1, k60).
+1730715263: New connection from 192.168.65.1:57842 on port 1883.
+1730715263: Client mqttjs01 already connected, closing old connection.
+1730715263: New client connected from 192.168.65.1:57842 as mqttjs01 (p2, c1, k60).
+1730715265: New connection from 192.168.65.1:24901 on port 1883.
+1730715265: Client mqttjs01 already connected, closing old connection.
+1730715265: New client connected from 192.168.65.1:24901 as mqttjs01 (p2, c1, k60).
+1730715266: New connection from 192.168.65.1:42637 on port 1883.
+1730715266: Client mqttjs01 already connected, closing old connection.
+1730715266: New client connected from 192.168.65.1:42637 as mqttjs01 (p2, c1, k60).
+1730715267: New connection from 192.168.65.1:18404 on port 1883.
+1730715267: Client mqttjs01 already connected, closing old connection.
+1730715267: New client connected from 192.168.65.1:18404 as mqttjs01 (p2, c1, k60).
+1730715268: New connection from 192.168.65.1:48630 on port 1883.
+1730715268: Client mqttjs01 already connected, closing old connection.
+1730715268: New client connected from 192.168.65.1:48630 as mqttjs01 (p2, c1, k60).
+1730715269: New connection from 192.168.65.1:33361 on port 1883.
+1730715269: Client mqttjs01 already connected, closing old connection.
+1730715269: New client connected from 192.168.65.1:33361 as mqttjs01 (p2, c1, k60).
+1730715270: New connection from 192.168.65.1:25559 on port 1883.
+1730715270: Client mqttjs01 already connected, closing old connection.
+1730715270: New client connected from 192.168.65.1:25559 as mqttjs01 (p2, c1, k60).
+1730715271: New connection from 192.168.65.1:52672 on port 1883.
+1730715271: Client mqttjs01 already connected, closing old connection.
+1730715271: New client connected from 192.168.65.1:52672 as mqttjs01 (p2, c1, k60).
+1730715272: New connection from 192.168.65.1:33131 on port 1883.
+1730715272: Client mqttjs01 already connected, closing old connection.
+1730715272: New client connected from 192.168.65.1:33131 as mqttjs01 (p2, c1, k60).
+1730715273: New connection from 192.168.65.1:62437 on port 1883.
+1730715273: Client mqttjs01 already connected, closing old connection.
+1730715273: New client connected from 192.168.65.1:62437 as mqttjs01 (p2, c1, k60).
+1730715274: New connection from 192.168.65.1:48398 on port 1883.
+1730715274: Client mqttjs01 already connected, closing old connection.
+1730715274: New client connected from 192.168.65.1:48398 as mqttjs01 (p2, c1, k60).
+1730715275: New connection from 192.168.65.1:28028 on port 1883.
+1730715275: Client mqttjs01 already connected, closing old connection.
+1730715275: New client connected from 192.168.65.1:28028 as mqttjs01 (p2, c1, k60).
+1730715276: New connection from 192.168.65.1:20428 on port 1883.
+1730715276: Client mqttjs01 already connected, closing old connection.
+1730715276: New client connected from 192.168.65.1:20428 as mqttjs01 (p2, c1, k60).
+1730715277: New connection from 192.168.65.1:26992 on port 1883.
+1730715277: Client mqttjs01 already connected, closing old connection.
+1730715277: New client connected from 192.168.65.1:26992 as mqttjs01 (p2, c1, k60).
+1730715278: New connection from 192.168.65.1:64760 on port 1883.
+1730715278: Client mqttjs01 already connected, closing old connection.
+1730715278: New client connected from 192.168.65.1:64760 as mqttjs01 (p2, c1, k60).
+1730715279: New connection from 192.168.65.1:51757 on port 1883.
+1730715279: Client mqttjs01 already connected, closing old connection.
+1730715279: New client connected from 192.168.65.1:51757 as mqttjs01 (p2, c1, k60).
+1730715280: New connection from 192.168.65.1:32261 on port 1883.
+1730715280: Client mqttjs01 already connected, closing old connection.
+1730715280: New client connected from 192.168.65.1:32261 as mqttjs01 (p2, c1, k60).
+1730715281: New connection from 192.168.65.1:42385 on port 1883.
+1730715281: Client mqttjs01 already connected, closing old connection.
+1730715281: New client connected from 192.168.65.1:42385 as mqttjs01 (p2, c1, k60).
+1730715282: New connection from 192.168.65.1:26794 on port 1883.
+1730715282: Client mqttjs01 already connected, closing old connection.
+1730715282: New client connected from 192.168.65.1:26794 as mqttjs01 (p2, c1, k60).
+1730715283: New connection from 192.168.65.1:47789 on port 1883.
+1730715283: Client mqttjs01 already connected, closing old connection.
+1730715283: New client connected from 192.168.65.1:47789 as mqttjs01 (p2, c1, k60).
+1730715284: New connection from 192.168.65.1:38731 on port 1883.
+1730715284: Client mqttjs01 already connected, closing old connection.
+1730715284: New client connected from 192.168.65.1:38731 as mqttjs01 (p2, c1, k60).
+1730715285: New connection from 192.168.65.1:32306 on port 1883.
+1730715285: Client mqttjs01 already connected, closing old connection.
+1730715285: New client connected from 192.168.65.1:32306 as mqttjs01 (p2, c1, k60).
+1730715286: New connection from 192.168.65.1:51331 on port 1883.
+1730715286: Client mqttjs01 already connected, closing old connection.
+1730715286: New client connected from 192.168.65.1:51331 as mqttjs01 (p2, c1, k60).
+1730715287: New connection from 192.168.65.1:52210 on port 1883.
+1730715287: Client mqttjs01 already connected, closing old connection.
+1730715287: New client connected from 192.168.65.1:52210 as mqttjs01 (p2, c1, k60).
+1730715288: New connection from 192.168.65.1:62926 on port 1883.
+1730715288: Client mqttjs01 already connected, closing old connection.
+1730715288: New client connected from 192.168.65.1:62926 as mqttjs01 (p2, c1, k60).
+1730715289: New connection from 192.168.65.1:24552 on port 1883.
+1730715289: Client mqttjs01 already connected, closing old connection.
+1730715289: New client connected from 192.168.65.1:24552 as mqttjs01 (p2, c1, k60).
+1730715290: New connection from 192.168.65.1:16959 on port 1883.
+1730715290: Client mqttjs01 already connected, closing old connection.
+1730715290: New client connected from 192.168.65.1:16959 as mqttjs01 (p2, c1, k60).
+1730715291: New connection from 192.168.65.1:23568 on port 1883.
+1730715291: Client mqttjs01 already connected, closing old connection.
+1730715291: New client connected from 192.168.65.1:23568 as mqttjs01 (p2, c1, k60).
+1730715292: New connection from 192.168.65.1:64162 on port 1883.
+1730715292: Client mqttjs01 already connected, closing old connection.
+1730715292: New client connected from 192.168.65.1:64162 as mqttjs01 (p2, c1, k60).
+1730715293: New connection from 192.168.65.1:25566 on port 1883.
+1730715293: Client mqttjs01 already connected, closing old connection.
+1730715293: New client connected from 192.168.65.1:25566 as mqttjs01 (p2, c1, k60).
+1730715294: New connection from 192.168.65.1:46479 on port 1883.
+1730715294: Client mqttjs01 already connected, closing old connection.
+1730715294: New client connected from 192.168.65.1:46479 as mqttjs01 (p2, c1, k60).
+1730715295: New connection from 192.168.65.1:22334 on port 1883.
+1730715295: Client mqttjs01 already connected, closing old connection.
+1730715295: New client connected from 192.168.65.1:22334 as mqttjs01 (p2, c1, k60).
+1730715296: New connection from 192.168.65.1:38449 on port 1883.
+1730715296: Client mqttjs01 already connected, closing old connection.
+1730715296: New client connected from 192.168.65.1:38449 as mqttjs01 (p2, c1, k60).
+1730715297: New connection from 192.168.65.1:22939 on port 1883.
+1730715297: Client mqttjs01 already connected, closing old connection.
+1730715297: New client connected from 192.168.65.1:22939 as mqttjs01 (p2, c1, k60).
+1730715298: New connection from 192.168.65.1:32506 on port 1883.
+1730715298: Client mqttjs01 already connected, closing old connection.
+1730715298: New client connected from 192.168.65.1:32506 as mqttjs01 (p2, c1, k60).
+1730715299: New connection from 192.168.65.1:30464 on port 1883.
+1730715299: Client mqttjs01 already connected, closing old connection.
+1730715299: New client connected from 192.168.65.1:30464 as mqttjs01 (p2, c1, k60).
+1730715300: New connection from 192.168.65.1:34006 on port 1883.
+1730715300: Client mqttjs01 already connected, closing old connection.
+1730715300: New client connected from 192.168.65.1:34006 as mqttjs01 (p2, c1, k60).
+1730715301: New connection from 192.168.65.1:33353 on port 1883.
+1730715301: Client mqttjs01 already connected, closing old connection.
+1730715301: New client connected from 192.168.65.1:33353 as mqttjs01 (p2, c1, k60).
+1730715302: New connection from 192.168.65.1:64351 on port 1883.
+1730715302: Client mqttjs01 already connected, closing old connection.
+1730715302: New client connected from 192.168.65.1:64351 as mqttjs01 (p2, c1, k60).
+1730715303: New connection from 192.168.65.1:31857 on port 1883.
+1730715303: Client mqttjs01 already connected, closing old connection.
+1730715303: New client connected from 192.168.65.1:31857 as mqttjs01 (p2, c1, k60).
+1730715304: New connection from 192.168.65.1:55079 on port 1883.
+1730715304: Client mqttjs01 already connected, closing old connection.
+1730715304: New client connected from 192.168.65.1:55079 as mqttjs01 (p2, c1, k60).
+1730715305: New connection from 192.168.65.1:52133 on port 1883.
+1730715305: Client mqttjs01 already connected, closing old connection.
+1730715305: New client connected from 192.168.65.1:52133 as mqttjs01 (p2, c1, k60).
+1730715306: New connection from 192.168.65.1:19373 on port 1883.
+1730715306: Client mqttjs01 already connected, closing old connection.
+1730715306: New client connected from 192.168.65.1:19373 as mqttjs01 (p2, c1, k60).
+1730715307: New connection from 192.168.65.1:59812 on port 1883.
+1730715307: Client mqttjs01 already connected, closing old connection.
+1730715307: New client connected from 192.168.65.1:59812 as mqttjs01 (p2, c1, k60).
+1730715308: New connection from 192.168.65.1:60160 on port 1883.
+1730715308: Client mqttjs01 already connected, closing old connection.
+1730715308: New client connected from 192.168.65.1:60160 as mqttjs01 (p2, c1, k60).
+1730715309: New connection from 192.168.65.1:22837 on port 1883.
+1730715309: Client mqttjs01 already connected, closing old connection.
+1730715309: New client connected from 192.168.65.1:22837 as mqttjs01 (p2, c1, k60).
+1730715310: New connection from 192.168.65.1:45620 on port 1883.
+1730715310: Client mqttjs01 already connected, closing old connection.
+1730715310: New client connected from 192.168.65.1:45620 as mqttjs01 (p2, c1, k60).
+1730715311: New connection from 192.168.65.1:32060 on port 1883.
+1730715311: Client mqttjs01 already connected, closing old connection.
+1730715311: New client connected from 192.168.65.1:32060 as mqttjs01 (p2, c1, k60).
+1730715312: New connection from 192.168.65.1:24684 on port 1883.
+1730715312: Client mqttjs01 already connected, closing old connection.
+1730715312: New client connected from 192.168.65.1:24684 as mqttjs01 (p2, c1, k60).
+1730715313: New connection from 192.168.65.1:48885 on port 1883.
+1730715313: Client mqttjs01 already connected, closing old connection.
+1730715313: New client connected from 192.168.65.1:48885 as mqttjs01 (p2, c1, k60).
+1730715314: New connection from 192.168.65.1:17690 on port 1883.
+1730715314: Client mqttjs01 already connected, closing old connection.
+1730715314: New client connected from 192.168.65.1:17690 as mqttjs01 (p2, c1, k60).
+1730715315: New connection from 192.168.65.1:57996 on port 1883.
+1730715315: Client mqttjs01 already connected, closing old connection.
+1730715315: New client connected from 192.168.65.1:57996 as mqttjs01 (p2, c1, k60).
+1730715316: New connection from 192.168.65.1:57751 on port 1883.
+1730715316: Client mqttjs01 already connected, closing old connection.
+1730715316: New client connected from 192.168.65.1:57751 as mqttjs01 (p2, c1, k60).
+1730715317: New connection from 192.168.65.1:55970 on port 1883.
+1730715317: Client mqttjs01 already connected, closing old connection.
+1730715317: New client connected from 192.168.65.1:55970 as mqttjs01 (p2, c1, k60).
+1730715318: New connection from 192.168.65.1:58209 on port 1883.
+1730715318: Client mqttjs01 already connected, closing old connection.
+1730715318: New client connected from 192.168.65.1:58209 as mqttjs01 (p2, c1, k60).
+1730715319: New connection from 192.168.65.1:19427 on port 1883.
+1730715319: Client mqttjs01 already connected, closing old connection.
+1730715319: New client connected from 192.168.65.1:19427 as mqttjs01 (p2, c1, k60).
+1730715320: New connection from 192.168.65.1:46462 on port 1883.
+1730715320: Client mqttjs01 already connected, closing old connection.
+1730715320: New client connected from 192.168.65.1:46462 as mqttjs01 (p2, c1, k60).
+1730715321: New connection from 192.168.65.1:41618 on port 1883.
+1730715321: Client mqttjs01 already connected, closing old connection.
+1730715321: New client connected from 192.168.65.1:41618 as mqttjs01 (p2, c1, k60).
+1730715322: New connection from 192.168.65.1:61891 on port 1883.
+1730715322: Client mqttjs01 already connected, closing old connection.
+1730715322: New client connected from 192.168.65.1:61891 as mqttjs01 (p2, c1, k60).
+1730715323: New connection from 192.168.65.1:40146 on port 1883.
+1730715323: Client mqttjs01 already connected, closing old connection.
+1730715323: New client connected from 192.168.65.1:40146 as mqttjs01 (p2, c1, k60).
+1730715324: New connection from 192.168.65.1:51215 on port 1883.
+1730715324: Client mqttjs01 already connected, closing old connection.
+1730715324: New client connected from 192.168.65.1:51215 as mqttjs01 (p2, c1, k60).
+1730715325: New connection from 192.168.65.1:49107 on port 1883.
+1730715325: Client mqttjs01 already connected, closing old connection.
+1730715325: New client connected from 192.168.65.1:49107 as mqttjs01 (p2, c1, k60).
+1730715326: New connection from 192.168.65.1:42914 on port 1883.
+1730715326: Client mqttjs01 already connected, closing old connection.
+1730715326: New client connected from 192.168.65.1:42914 as mqttjs01 (p2, c1, k60).
+1730715327: New connection from 192.168.65.1:19395 on port 1883.
+1730715327: Client mqttjs01 already connected, closing old connection.
+1730715327: New client connected from 192.168.65.1:19395 as mqttjs01 (p2, c1, k60).
+1730715328: New connection from 192.168.65.1:45665 on port 1883.
+1730715328: Client mqttjs01 already connected, closing old connection.
+1730715328: New client connected from 192.168.65.1:45665 as mqttjs01 (p2, c1, k60).
+1730715329: New connection from 192.168.65.1:51775 on port 1883.
+1730715329: Client mqttjs01 already connected, closing old connection.
+1730715329: New client connected from 192.168.65.1:51775 as mqttjs01 (p2, c1, k60).
+1730715330: New connection from 192.168.65.1:36896 on port 1883.
+1730715330: Client mqttjs01 already connected, closing old connection.
+1730715330: New client connected from 192.168.65.1:36896 as mqttjs01 (p2, c1, k60).
+1730715331: New connection from 192.168.65.1:34607 on port 1883.
+1730715331: Client mqttjs01 already connected, closing old connection.
+1730715331: New client connected from 192.168.65.1:34607 as mqttjs01 (p2, c1, k60).
+1730715332: New connection from 192.168.65.1:17294 on port 1883.
+1730715332: Client mqttjs01 already connected, closing old connection.
+1730715332: New client connected from 192.168.65.1:17294 as mqttjs01 (p2, c1, k60).
+1730715333: New connection from 192.168.65.1:44213 on port 1883.
+1730715333: Client mqttjs01 already connected, closing old connection.
+1730715333: New client connected from 192.168.65.1:44213 as mqttjs01 (p2, c1, k60).
+1730715334: New connection from 192.168.65.1:41654 on port 1883.
+1730715334: Client mqttjs01 already connected, closing old connection.
+1730715334: New client connected from 192.168.65.1:41654 as mqttjs01 (p2, c1, k60).
+1730715335: New connection from 192.168.65.1:40503 on port 1883.
+1730715335: Client mqttjs01 already connected, closing old connection.
+1730715335: New client connected from 192.168.65.1:40503 as mqttjs01 (p2, c1, k60).
+1730715336: New connection from 192.168.65.1:17451 on port 1883.
+1730715336: Client mqttjs01 already connected, closing old connection.
+1730715336: New client connected from 192.168.65.1:17451 as mqttjs01 (p2, c1, k60).
+1730715337: New connection from 192.168.65.1:35985 on port 1883.
+1730715337: Client mqttjs01 already connected, closing old connection.
+1730715337: New client connected from 192.168.65.1:35985 as mqttjs01 (p2, c1, k60).
+1730715338: New connection from 192.168.65.1:30723 on port 1883.
+1730715338: Client mqttjs01 already connected, closing old connection.
+1730715338: New client connected from 192.168.65.1:30723 as mqttjs01 (p2, c1, k60).
+1730715339: New connection from 192.168.65.1:42258 on port 1883.
+1730715339: Client mqttjs01 already connected, closing old connection.
+1730715339: New client connected from 192.168.65.1:42258 as mqttjs01 (p2, c1, k60).
+1730715340: New connection from 192.168.65.1:22417 on port 1883.
+1730715340: Client mqttjs01 already connected, closing old connection.
+1730715340: New client connected from 192.168.65.1:22417 as mqttjs01 (p2, c1, k60).
+1730715341: New connection from 192.168.65.1:35594 on port 1883.
+1730715341: Client mqttjs01 already connected, closing old connection.
+1730715341: New client connected from 192.168.65.1:35594 as mqttjs01 (p2, c1, k60).
+1730715342: New connection from 192.168.65.1:28496 on port 1883.
+1730715342: Client mqttjs01 already connected, closing old connection.
+1730715342: New client connected from 192.168.65.1:28496 as mqttjs01 (p2, c1, k60).
+1730715343: New connection from 192.168.65.1:49668 on port 1883.
+1730715343: Client mqttjs01 already connected, closing old connection.
+1730715343: New client connected from 192.168.65.1:49668 as mqttjs01 (p2, c1, k60).
+1730715344: New connection from 192.168.65.1:64352 on port 1883.
+1730715344: Client mqttjs01 already connected, closing old connection.
+1730715344: New client connected from 192.168.65.1:64352 as mqttjs01 (p2, c1, k60).
+1730715345: New connection from 192.168.65.1:19681 on port 1883.
+1730715345: Client mqttjs01 already connected, closing old connection.
+1730715345: New client connected from 192.168.65.1:19681 as mqttjs01 (p2, c1, k60).
+1730715346: New connection from 192.168.65.1:64308 on port 1883.
+1730715346: Client mqttjs01 already connected, closing old connection.
+1730715346: New client connected from 192.168.65.1:64308 as mqttjs01 (p2, c1, k60).
+1730715347: New connection from 192.168.65.1:58389 on port 1883.
+1730715347: Client mqttjs01 already connected, closing old connection.
+1730715347: New client connected from 192.168.65.1:58389 as mqttjs01 (p2, c1, k60).
+1730715348: New connection from 192.168.65.1:39800 on port 1883.
+1730715348: Client mqttjs01 already connected, closing old connection.
+1730715348: New client connected from 192.168.65.1:39800 as mqttjs01 (p2, c1, k60).
+1730715349: New connection from 192.168.65.1:24508 on port 1883.
+1730715349: Client mqttjs01 already connected, closing old connection.
+1730715349: New client connected from 192.168.65.1:24508 as mqttjs01 (p2, c1, k60).
+1730715350: New connection from 192.168.65.1:45317 on port 1883.
+1730715350: Client mqttjs01 already connected, closing old connection.
+1730715350: New client connected from 192.168.65.1:45317 as mqttjs01 (p2, c1, k60).
+1730715351: New connection from 192.168.65.1:19176 on port 1883.
+1730715351: Client mqttjs01 already connected, closing old connection.
+1730715351: New client connected from 192.168.65.1:19176 as mqttjs01 (p2, c1, k60).
+1730715352: New connection from 192.168.65.1:55679 on port 1883.
+1730715352: Client mqttjs01 already connected, closing old connection.
+1730715352: New client connected from 192.168.65.1:55679 as mqttjs01 (p2, c1, k60).
+1730715353: Client mqttjs01 closed its connection.
+1730715353: New connection from 192.168.65.1:43122 on port 1883.
+1730715353: New client connected from 192.168.65.1:43122 as mqttjs01 (p2, c1, k60).
+1730715355: New connection from 192.168.65.1:38295 on port 1883.
+1730715355: Client mqttjs01 already connected, closing old connection.
+1730715355: New client connected from 192.168.65.1:38295 as mqttjs01 (p2, c1, k60).
+1730715356: New connection from 192.168.65.1:23638 on port 1883.
+1730715356: Client mqttjs01 already connected, closing old connection.
+1730715356: New client connected from 192.168.65.1:23638 as mqttjs01 (p2, c1, k60).
+1730715357: New connection from 192.168.65.1:46691 on port 1883.
+1730715357: Client mqttjs01 already connected, closing old connection.
+1730715357: New client connected from 192.168.65.1:46691 as mqttjs01 (p2, c1, k60).
+1730715358: New connection from 192.168.65.1:49744 on port 1883.
+1730715358: Client mqttjs01 already connected, closing old connection.
+1730715358: New client connected from 192.168.65.1:49744 as mqttjs01 (p2, c1, k60).
+1730715359: New connection from 192.168.65.1:19177 on port 1883.
+1730715359: Client mqttjs01 already connected, closing old connection.
+1730715359: New client connected from 192.168.65.1:19177 as mqttjs01 (p2, c1, k60).
+1730715360: New connection from 192.168.65.1:20242 on port 1883.
+1730715360: Client mqttjs01 already connected, closing old connection.
+1730715360: New client connected from 192.168.65.1:20242 as mqttjs01 (p2, c1, k60).
+1730715361: New connection from 192.168.65.1:33766 on port 1883.
+1730715361: Client mqttjs01 already connected, closing old connection.
+1730715361: New client connected from 192.168.65.1:33766 as mqttjs01 (p2, c1, k60).
+1730715362: New connection from 192.168.65.1:31320 on port 1883.
+1730715362: Client mqttjs01 already connected, closing old connection.
+1730715362: New client connected from 192.168.65.1:31320 as mqttjs01 (p2, c1, k60).
+1730715363: New connection from 192.168.65.1:16984 on port 1883.
+1730715363: Client mqttjs01 already connected, closing old connection.
+1730715363: New client connected from 192.168.65.1:16984 as mqttjs01 (p2, c1, k60).
+1730715364: New connection from 192.168.65.1:47737 on port 1883.
+1730715364: Client mqttjs01 already connected, closing old connection.
+1730715364: New client connected from 192.168.65.1:47737 as mqttjs01 (p2, c1, k60).
+1730715365: New connection from 192.168.65.1:21051 on port 1883.
+1730715365: Client mqttjs01 already connected, closing old connection.
+1730715365: New client connected from 192.168.65.1:21051 as mqttjs01 (p2, c1, k60).
+1730715366: New connection from 192.168.65.1:50223 on port 1883.
+1730715366: Client mqttjs01 already connected, closing old connection.
+1730715366: New client connected from 192.168.65.1:50223 as mqttjs01 (p2, c1, k60).
+1730715367: New connection from 192.168.65.1:36231 on port 1883.
+1730715367: Client mqttjs01 already connected, closing old connection.
+1730715367: New client connected from 192.168.65.1:36231 as mqttjs01 (p2, c1, k60).
+1730715368: New connection from 192.168.65.1:35260 on port 1883.
+1730715368: Client mqttjs01 already connected, closing old connection.
+1730715368: New client connected from 192.168.65.1:35260 as mqttjs01 (p2, c1, k60).
+1730715369: New connection from 192.168.65.1:44662 on port 1883.
+1730715369: Client mqttjs01 already connected, closing old connection.
+1730715369: New client connected from 192.168.65.1:44662 as mqttjs01 (p2, c1, k60).
+1730715370: New connection from 192.168.65.1:52410 on port 1883.
+1730715370: Client mqttjs01 already connected, closing old connection.
+1730715370: New client connected from 192.168.65.1:52410 as mqttjs01 (p2, c1, k60).
+1730715371: New connection from 192.168.65.1:39170 on port 1883.
+1730715371: Client mqttjs01 already connected, closing old connection.
+1730715371: New client connected from 192.168.65.1:39170 as mqttjs01 (p2, c1, k60).
+1730715372: New connection from 192.168.65.1:19243 on port 1883.
+1730715372: Client mqttjs01 already connected, closing old connection.
+1730715372: New client connected from 192.168.65.1:19243 as mqttjs01 (p2, c1, k60).
+1730715373: New connection from 192.168.65.1:50544 on port 1883.
+1730715373: Client mqttjs01 already connected, closing old connection.
+1730715373: New client connected from 192.168.65.1:50544 as mqttjs01 (p2, c1, k60).
+1730715374: New connection from 192.168.65.1:52133 on port 1883.
+1730715374: Client mqttjs01 already connected, closing old connection.
+1730715374: New client connected from 192.168.65.1:52133 as mqttjs01 (p2, c1, k60).
+1730715375: New connection from 192.168.65.1:19797 on port 1883.
+1730715375: Client mqttjs01 already connected, closing old connection.
+1730715375: New client connected from 192.168.65.1:19797 as mqttjs01 (p2, c1, k60).
+1730715376: New connection from 192.168.65.1:36552 on port 1883.
+1730715376: Client mqttjs01 already connected, closing old connection.
+1730715376: New client connected from 192.168.65.1:36552 as mqttjs01 (p2, c1, k60).
+1730715377: New connection from 192.168.65.1:24913 on port 1883.
+1730715377: Client mqttjs01 already connected, closing old connection.
+1730715377: New client connected from 192.168.65.1:24913 as mqttjs01 (p2, c1, k60).
+1730715378: New connection from 192.168.65.1:20532 on port 1883.
+1730715378: Client mqttjs01 already connected, closing old connection.
+1730715378: New client connected from 192.168.65.1:20532 as mqttjs01 (p2, c1, k60).
+1730715379: New connection from 192.168.65.1:43712 on port 1883.
+1730715379: Client mqttjs01 already connected, closing old connection.
+1730715379: New client connected from 192.168.65.1:43712 as mqttjs01 (p2, c1, k60).
+1730715380: New connection from 192.168.65.1:62817 on port 1883.
+1730715380: Client mqttjs01 already connected, closing old connection.
+1730715380: New client connected from 192.168.65.1:62817 as mqttjs01 (p2, c1, k60).
+1730715381: New connection from 192.168.65.1:17886 on port 1883.
+1730715381: Client mqttjs01 already connected, closing old connection.
+1730715381: New client connected from 192.168.65.1:17886 as mqttjs01 (p2, c1, k60).
+1730715382: New connection from 192.168.65.1:44277 on port 1883.
+1730715382: Client mqttjs01 already connected, closing old connection.
+1730715382: New client connected from 192.168.65.1:44277 as mqttjs01 (p2, c1, k60).
+1730715383: New connection from 192.168.65.1:48586 on port 1883.
+1730715383: Client mqttjs01 already connected, closing old connection.
+1730715383: New client connected from 192.168.65.1:48586 as mqttjs01 (p2, c1, k60).
+1730715384: New connection from 192.168.65.1:62721 on port 1883.
+1730715384: Client mqttjs01 already connected, closing old connection.
+1730715384: New client connected from 192.168.65.1:62721 as mqttjs01 (p2, c1, k60).
+1730715385: New connection from 192.168.65.1:23440 on port 1883.
+1730715385: Client mqttjs01 already connected, closing old connection.
+1730715385: New client connected from 192.168.65.1:23440 as mqttjs01 (p2, c1, k60).
+1730715386: New connection from 192.168.65.1:26384 on port 1883.
+1730715386: Client mqttjs01 already connected, closing old connection.
+1730715386: New client connected from 192.168.65.1:26384 as mqttjs01 (p2, c1, k60).
+1730715387: New connection from 192.168.65.1:41466 on port 1883.
+1730715387: Client mqttjs01 already connected, closing old connection.
+1730715387: New client connected from 192.168.65.1:41466 as mqttjs01 (p2, c1, k60).
+1730715388: New connection from 192.168.65.1:58282 on port 1883.
+1730715388: Client mqttjs01 already connected, closing old connection.
+1730715388: New client connected from 192.168.65.1:58282 as mqttjs01 (p2, c1, k60).
+1730715389: New connection from 192.168.65.1:60035 on port 1883.
+1730715389: Client mqttjs01 already connected, closing old connection.
+1730715389: New client connected from 192.168.65.1:60035 as mqttjs01 (p2, c1, k60).
+1730715390: New connection from 192.168.65.1:47614 on port 1883.
+1730715390: Client mqttjs01 already connected, closing old connection.
+1730715390: New client connected from 192.168.65.1:47614 as mqttjs01 (p2, c1, k60).
+1730715391: New connection from 192.168.65.1:18897 on port 1883.
+1730715391: Client mqttjs01 already connected, closing old connection.
+1730715391: New client connected from 192.168.65.1:18897 as mqttjs01 (p2, c1, k60).
+1730715392: New connection from 192.168.65.1:38282 on port 1883.
+1730715392: Client mqttjs01 already connected, closing old connection.
+1730715392: New client connected from 192.168.65.1:38282 as mqttjs01 (p2, c1, k60).
+1730715393: New connection from 192.168.65.1:53353 on port 1883.
+1730715393: Client mqttjs01 already connected, closing old connection.
+1730715393: New client connected from 192.168.65.1:53353 as mqttjs01 (p2, c1, k60).
+1730715394: New connection from 192.168.65.1:56524 on port 1883.
+1730715394: Client mqttjs01 already connected, closing old connection.
+1730715394: New client connected from 192.168.65.1:56524 as mqttjs01 (p2, c1, k60).
+1730715395: New connection from 192.168.65.1:46540 on port 1883.
+1730715395: Client mqttjs01 already connected, closing old connection.
+1730715395: New client connected from 192.168.65.1:46540 as mqttjs01 (p2, c1, k60).
+1730715396: New connection from 192.168.65.1:54548 on port 1883.
+1730715396: Client mqttjs01 already connected, closing old connection.
+1730715396: New client connected from 192.168.65.1:54548 as mqttjs01 (p2, c1, k60).
+1730715397: New connection from 192.168.65.1:64375 on port 1883.
+1730715397: Client mqttjs01 already connected, closing old connection.
+1730715397: New client connected from 192.168.65.1:64375 as mqttjs01 (p2, c1, k60).
+1730715398: New connection from 192.168.65.1:34082 on port 1883.
+1730715398: Client mqttjs01 already connected, closing old connection.
+1730715398: New client connected from 192.168.65.1:34082 as mqttjs01 (p2, c1, k60).
+1730715399: New connection from 192.168.65.1:45023 on port 1883.
+1730715399: Client mqttjs01 already connected, closing old connection.
+1730715399: New client connected from 192.168.65.1:45023 as mqttjs01 (p2, c1, k60).
+1730715400: New connection from 192.168.65.1:39931 on port 1883.
+1730715400: Client mqttjs01 already connected, closing old connection.
+1730715400: New client connected from 192.168.65.1:39931 as mqttjs01 (p2, c1, k60).
+1730715401: New connection from 192.168.65.1:52532 on port 1883.
+1730715401: Client mqttjs01 already connected, closing old connection.
+1730715401: New client connected from 192.168.65.1:52532 as mqttjs01 (p2, c1, k60).
+1730715402: New connection from 192.168.65.1:53805 on port 1883.
+1730715402: Client mqttjs01 already connected, closing old connection.
+1730715402: New client connected from 192.168.65.1:53805 as mqttjs01 (p2, c1, k60).
+1730715403: New connection from 192.168.65.1:23144 on port 1883.
+1730715403: Client mqttjs01 already connected, closing old connection.
+1730715403: New client connected from 192.168.65.1:23144 as mqttjs01 (p2, c1, k60).
+1730715404: New connection from 192.168.65.1:30105 on port 1883.
+1730715404: Client mqttjs01 already connected, closing old connection.
+1730715404: New client connected from 192.168.65.1:30105 as mqttjs01 (p2, c1, k60).
+1730715405: New connection from 192.168.65.1:25200 on port 1883.
+1730715405: Client mqttjs01 already connected, closing old connection.
+1730715405: New client connected from 192.168.65.1:25200 as mqttjs01 (p2, c1, k60).
+1730715406: New connection from 192.168.65.1:53632 on port 1883.
+1730715406: Client mqttjs01 already connected, closing old connection.
+1730715406: New client connected from 192.168.65.1:53632 as mqttjs01 (p2, c1, k60).
+1730715407: New connection from 192.168.65.1:57826 on port 1883.
+1730715407: Client mqttjs01 already connected, closing old connection.
+1730715407: New client connected from 192.168.65.1:57826 as mqttjs01 (p2, c1, k60).
+1730715408: New connection from 192.168.65.1:36458 on port 1883.
+1730715408: Client mqttjs01 already connected, closing old connection.
+1730715408: New client connected from 192.168.65.1:36458 as mqttjs01 (p2, c1, k60).
+1730715409: New connection from 192.168.65.1:22220 on port 1883.
+1730715409: Client mqttjs01 already connected, closing old connection.
+1730715409: New client connected from 192.168.65.1:22220 as mqttjs01 (p2, c1, k60).
+1730715410: New connection from 192.168.65.1:39002 on port 1883.
+1730715410: Client mqttjs01 already connected, closing old connection.
+1730715410: New client connected from 192.168.65.1:39002 as mqttjs01 (p2, c1, k60).
+1730715411: New connection from 192.168.65.1:20900 on port 1883.
+1730715411: Client mqttjs01 already connected, closing old connection.
+1730715411: New client connected from 192.168.65.1:20900 as mqttjs01 (p2, c1, k60).
+1730715412: New connection from 192.168.65.1:55412 on port 1883.
+1730715412: Client mqttjs01 already connected, closing old connection.
+1730715412: New client connected from 192.168.65.1:55412 as mqttjs01 (p2, c1, k60).
+1730715413: New connection from 192.168.65.1:19797 on port 1883.
+1730715413: Client mqttjs01 already connected, closing old connection.
+1730715413: New client connected from 192.168.65.1:19797 as mqttjs01 (p2, c1, k60).
+1730715414: New connection from 192.168.65.1:55812 on port 1883.
+1730715414: Client mqttjs01 already connected, closing old connection.
+1730715414: New client connected from 192.168.65.1:55812 as mqttjs01 (p2, c1, k60).
+1730715415: New connection from 192.168.65.1:44676 on port 1883.
+1730715415: Client mqttjs01 already connected, closing old connection.
+1730715415: New client connected from 192.168.65.1:44676 as mqttjs01 (p2, c1, k60).
+1730715416: New connection from 192.168.65.1:23036 on port 1883.
+1730715416: Client mqttjs01 already connected, closing old connection.
+1730715416: New client connected from 192.168.65.1:23036 as mqttjs01 (p2, c1, k60).
+1730715417: New connection from 192.168.65.1:37480 on port 1883.
+1730715417: Client mqttjs01 already connected, closing old connection.
+1730715417: New client connected from 192.168.65.1:37480 as mqttjs01 (p2, c1, k60).
+1730715418: New connection from 192.168.65.1:30801 on port 1883.
+1730715418: Client mqttjs01 already connected, closing old connection.
+1730715418: New client connected from 192.168.65.1:30801 as mqttjs01 (p2, c1, k60).
+1730715419: New connection from 192.168.65.1:32489 on port 1883.
+1730715419: Client mqttjs01 already connected, closing old connection.
+1730715419: New client connected from 192.168.65.1:32489 as mqttjs01 (p2, c1, k60).
+1730715420: New connection from 192.168.65.1:58415 on port 1883.
+1730715420: Client mqttjs01 already connected, closing old connection.
+1730715420: New client connected from 192.168.65.1:58415 as mqttjs01 (p2, c1, k60).
+1730715421: New connection from 192.168.65.1:20328 on port 1883.
+1730715421: Client mqttjs01 already connected, closing old connection.
+1730715421: New client connected from 192.168.65.1:20328 as mqttjs01 (p2, c1, k60).
+1730715422: New connection from 192.168.65.1:52174 on port 1883.
+1730715422: Client mqttjs01 already connected, closing old connection.
+1730715422: New client connected from 192.168.65.1:52174 as mqttjs01 (p2, c1, k60).
+1730715423: New connection from 192.168.65.1:60368 on port 1883.
+1730715423: Client mqttjs01 already connected, closing old connection.
+1730715423: New client connected from 192.168.65.1:60368 as mqttjs01 (p2, c1, k60).
+1730715424: New connection from 192.168.65.1:57750 on port 1883.
+1730715424: Client mqttjs01 already connected, closing old connection.
+1730715424: New client connected from 192.168.65.1:57750 as mqttjs01 (p2, c1, k60).
+1730715426: New connection from 192.168.65.1:55607 on port 1883.
+1730715426: Client mqttjs01 already connected, closing old connection.
+1730715426: New client connected from 192.168.65.1:55607 as mqttjs01 (p2, c1, k60).
+1730715427: New connection from 192.168.65.1:59481 on port 1883.
+1730715427: Client mqttjs01 already connected, closing old connection.
+1730715427: New client connected from 192.168.65.1:59481 as mqttjs01 (p2, c1, k60).
+1730715428: New connection from 192.168.65.1:27335 on port 1883.
+1730715428: Client mqttjs01 already connected, closing old connection.
+1730715428: New client connected from 192.168.65.1:27335 as mqttjs01 (p2, c1, k60).
+1730715429: New connection from 192.168.65.1:46332 on port 1883.
+1730715429: Client mqttjs01 already connected, closing old connection.
+1730715429: New client connected from 192.168.65.1:46332 as mqttjs01 (p2, c1, k60).
+1730715430: New connection from 192.168.65.1:23751 on port 1883.
+1730715430: Client mqttjs01 already connected, closing old connection.
+1730715430: New client connected from 192.168.65.1:23751 as mqttjs01 (p2, c1, k60).
+1730715431: New connection from 192.168.65.1:45331 on port 1883.
+1730715431: Client mqttjs01 already connected, closing old connection.
+1730715431: New client connected from 192.168.65.1:45331 as mqttjs01 (p2, c1, k60).
+1730715432: New connection from 192.168.65.1:21629 on port 1883.
+1730715432: Client mqttjs01 already connected, closing old connection.
+1730715432: New client connected from 192.168.65.1:21629 as mqttjs01 (p2, c1, k60).
+1730715433: New connection from 192.168.65.1:51496 on port 1883.
+1730715433: Client mqttjs01 already connected, closing old connection.
+1730715433: New client connected from 192.168.65.1:51496 as mqttjs01 (p2, c1, k60).
+1730715434: New connection from 192.168.65.1:47114 on port 1883.
+1730715434: Client mqttjs01 already connected, closing old connection.
+1730715434: New client connected from 192.168.65.1:47114 as mqttjs01 (p2, c1, k60).
+1730715435: New connection from 192.168.65.1:52184 on port 1883.
+1730715435: Client mqttjs01 already connected, closing old connection.
+1730715435: New client connected from 192.168.65.1:52184 as mqttjs01 (p2, c1, k60).
+1730715436: New connection from 192.168.65.1:40832 on port 1883.
+1730715436: Client mqttjs01 already connected, closing old connection.
+1730715436: New client connected from 192.168.65.1:40832 as mqttjs01 (p2, c1, k60).
+1730715437: New connection from 192.168.65.1:60113 on port 1883.
+1730715437: Client mqttjs01 already connected, closing old connection.
+1730715437: New client connected from 192.168.65.1:60113 as mqttjs01 (p2, c1, k60).
+1730715438: New connection from 192.168.65.1:22951 on port 1883.
+1730715438: Client mqttjs01 already connected, closing old connection.
+1730715438: New client connected from 192.168.65.1:22951 as mqttjs01 (p2, c1, k60).
+1730715439: New connection from 192.168.65.1:20343 on port 1883.
+1730715439: Client mqttjs01 already connected, closing old connection.
+1730715439: New client connected from 192.168.65.1:20343 as mqttjs01 (p2, c1, k60).
+1730715440: New connection from 192.168.65.1:57448 on port 1883.
+1730715440: Client mqttjs01 already connected, closing old connection.
+1730715440: New client connected from 192.168.65.1:57448 as mqttjs01 (p2, c1, k60).
+1730715441: New connection from 192.168.65.1:30604 on port 1883.
+1730715441: Client mqttjs01 already connected, closing old connection.
+1730715441: New client connected from 192.168.65.1:30604 as mqttjs01 (p2, c1, k60).
+1730715442: New connection from 192.168.65.1:22905 on port 1883.
+1730715442: Client mqttjs01 already connected, closing old connection.
+1730715442: New client connected from 192.168.65.1:22905 as mqttjs01 (p2, c1, k60).
+1730715443: New connection from 192.168.65.1:21451 on port 1883.
+1730715443: Client mqttjs01 already connected, closing old connection.
+1730715443: New client connected from 192.168.65.1:21451 as mqttjs01 (p2, c1, k60).
+1730715444: New connection from 192.168.65.1:50615 on port 1883.
+1730715444: Client mqttjs01 already connected, closing old connection.
+1730715444: New client connected from 192.168.65.1:50615 as mqttjs01 (p2, c1, k60).
+1730715445: New connection from 192.168.65.1:45072 on port 1883.
+1730715445: Client mqttjs01 already connected, closing old connection.
+1730715445: New client connected from 192.168.65.1:45072 as mqttjs01 (p2, c1, k60).
+1730715446: New connection from 192.168.65.1:20801 on port 1883.
+1730715446: Client mqttjs01 already connected, closing old connection.
+1730715446: New client connected from 192.168.65.1:20801 as mqttjs01 (p2, c1, k60).
+1730715447: New connection from 192.168.65.1:32726 on port 1883.
+1730715447: Client mqttjs01 already connected, closing old connection.
+1730715447: New client connected from 192.168.65.1:32726 as mqttjs01 (p2, c1, k60).
+1730715448: New connection from 192.168.65.1:32032 on port 1883.
+1730715448: Client mqttjs01 already connected, closing old connection.
+1730715448: New client connected from 192.168.65.1:32032 as mqttjs01 (p2, c1, k60).
+1730715449: New connection from 192.168.65.1:43259 on port 1883.
+1730715449: Client mqttjs01 already connected, closing old connection.
+1730715449: New client connected from 192.168.65.1:43259 as mqttjs01 (p2, c1, k60).
+1730715450: New connection from 192.168.65.1:48752 on port 1883.
+1730715450: Client mqttjs01 already connected, closing old connection.
+1730715450: New client connected from 192.168.65.1:48752 as mqttjs01 (p2, c1, k60).
+1730715451: New connection from 192.168.65.1:48681 on port 1883.
+1730715451: Client mqttjs01 already connected, closing old connection.
+1730715451: New client connected from 192.168.65.1:48681 as mqttjs01 (p2, c1, k60).
+1730715452: New connection from 192.168.65.1:28709 on port 1883.
+1730715452: Client mqttjs01 already connected, closing old connection.
+1730715452: New client connected from 192.168.65.1:28709 as mqttjs01 (p2, c1, k60).
+1730715453: New connection from 192.168.65.1:54403 on port 1883.
+1730715453: Client mqttjs01 already connected, closing old connection.
+1730715453: New client connected from 192.168.65.1:54403 as mqttjs01 (p2, c1, k60).
+1730715454: New connection from 192.168.65.1:29943 on port 1883.
+1730715454: Client mqttjs01 already connected, closing old connection.
+1730715454: New client connected from 192.168.65.1:29943 as mqttjs01 (p2, c1, k60).
+1730715455: New connection from 192.168.65.1:59422 on port 1883.
+1730715455: Client mqttjs01 already connected, closing old connection.
+1730715455: New client connected from 192.168.65.1:59422 as mqttjs01 (p2, c1, k60).
+1730715455: Client mqttjs01 closed its connection.
+1730715456: New connection from 192.168.65.1:34399 on port 1883.
+1730715456: New client connected from 192.168.65.1:34399 as mqttjs01 (p2, c1, k60).

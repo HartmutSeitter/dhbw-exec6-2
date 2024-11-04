@@ -1,0 +1,18 @@
+services:
+  mosquitto:
+    image: eclipse-mosquitto
+    container_name: mqtt
+    restart: always
+    volumes:
+      - ./mqtt/mosquitto/config/:/mosquitto/config/
+      - ./mqtt/mosquitto/data:/mosquitto/data
+      - ./mqtt/mosquitto/log:/mosquitto/log
+    ports:
+      - "1883:1883"
+      - "9001:9001"
+  users:
+    build: user/.
+    ports:
+      - "3000:3000"
+    image: hartmutseitter/dhbw-exec6-users
+    container_name: users
